@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "Мой первый проект на Хекслете Привета",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/DanilCrazy99/hexlet-js.git"
   },
-  "author": "",
+  "author": "Volkov Danil <volchara287@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/DanilCrazy99/hexlet-js/issues"
