@@ -1,7 +1,7 @@
 {
   "name": "hexlet",
   "version": "0.0.1",
-  "description": "Мой первый проект на Хекслете Привета",
+  "description": "Мой первый проект на Хекслете",
   "main": "index.js",
   "type": "module",
   "scripts": {
